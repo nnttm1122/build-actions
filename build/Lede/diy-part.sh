@@ -95,8 +95,10 @@ packages
 config.buildinfo
 feeds.buildinfo
 sha256sums
+ipk.tar.gz
 version.buildinfo
 profiles.json
+generic-squashfs-combined-efi.img.gz
 openwrt-x86-64-generic-kernel.bin
 openwrt-x86-64-generic.manifest
 openwrt-x86-64-generic-squashfs-rootfs.img.gz
